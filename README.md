@@ -22,47 +22,63 @@
 
 
 <pre>
-<span style="color: #61afef;">    _    _                 _                  /  _      </span>
-<span style="color: #61afef;">   / \   | | __ _ _ __   _ __| |__   _ __ _ __  / _| | __  </span>
-<span style="color: #61afef;">  / _ \  | |/ _` | '_ \ | '__| '_ \ | '__| '_ \ | |_| |/ /  </span>
-<span style="color: #61afef;"> / ___ \ | | (_| | | | || |  | | | || |  | | | ||  _|   <   </span>
-<span style="color: #61afef;">/_/   \_\|_|\__,_|_| |_||_|  |_| |_||_|  |_| |_||_| |_|\_\  </span>
+<span style="color: #00ff66;">  ███╗   ███╗██╗███╗   ██╗     ██╗     ██╗   ██╗██████╗ </span>
+<span style="color: #00ff66;">  ████╗ ████║██║████╗  ██║     ██║     ██║   ██║╚════██╗</span>
+<span style="color: #00ff66;">  ██╔████╔██║██║██╔██╗ ██║     ██║     ██║   ██║ █████╔╝</span>
+<span style="color: #00ff66;">  ██║╚██╔╝██║██║██║╚██╗██║     ██║     ██║   ██║ ╚═══██╗</span>
+<span style="color: #00ff66;">  ██║ ╚═╝ ██║██║██║ ╚████║     ███████╗╚██████╔╝██████╔╝</span>
 </pre>
 
 <pre>
-<span style="color: #61afef;">> Minjju12</span>
-  <span style="color: #e06c75;">OS:</span> <span style="color: #5c6370;">......................................</span> <span style="color: #61afef;">Windows 11</span>
-  <span style="color: #e06c75;">Uptime:</span> <span style="color: #5c6370;">..................................</span> <span style="color: #98c379;">2 years, 5 months, 29 days</span>
-  <span style="color: #e06c75;">IDE:</span> <span style="color: #5c6370;">.....................................</span> <span style="color: #e5c07b;">IDEA 2023.3.2, VSCode 1.96.0</span>
-  <span style="color: #e06c75;">Host:</span> <span style="color: #5c6370;">....................................</span> <span style="color: #c678dd;">TTM Technologies, Inc.</span>
+<span style="color: #ff0055;">> root@minjju12:~#</span> whoami
+  <span style="color: #61afef;">Full Name:</span>      Nguyen Anh Tuan
+  <span style="color: #61afef;">Role:</span>           Software Engineering Student & Developer
+  <span style="color: #61afef;">Location:</span>       Vietnam 🇻🇳
+  <span style="color: #61afef;">Focus:</span>          Backend Development, System Optimization & Automation
 
-<span style="color: #61afef;">> Languages.Programming:</span> <span style="color: #5c6370;">..................</span> Java, Python, JavaScript, C++
-<span style="color: #61afef;">> Languages.Real:</span> <span style="color: #5c6370;">....................</span> English, Vietnamese
+<span style="color: #ff0055;">> root@minjju12:~#</span> cat core_skills.json
+  {
+    "languages": ["Java", "Python", "JavaScript", "C++", "SQL"],
+    "backend":   ["Node.js", "Express", "Spring Boot", "RESTful APIs"],
+    "database":  ["MySQL", "MongoDB", "Redis"],
+    "devops":    ["Git", "Docker", "Linux (Ubuntu)", "GitHub Actions"]
+  }
 
-<span style="color: #61afef;">> Hobbies.Software:</span> <span style="color: #5c6370;">.........................</span> Minecraft Modding, iOS Jailbreaking
-<span style="color: #61afef;">> Hobbies.Hardware:</span> <span style="color: #5c6370;">.........................</span> Overclocking, Undervolting
-
-<span style="color: #61afef;">> Contact</span>
-  <span style="color: #e06c75;">Email.Personal:</span> <span style="color: #5c6370;">...........................</span> mtuananh1911@gmail.com
+<span style="color: #ff0055;">> root@minjju12:~#</span> uptime --detailed
+  <span style="color: #98c379;">System Running:</span> 22+ Years of Learning Life
+  <span style="color: #98c379;">Coffee Consumed:</span> 999+ Cups
+  <span style="color: #98c379;">Current Status:</span> Building scalable web applications & exploring security.
 </pre>
 
 ---
 
 <pre>
-<span style="color: #61afef;">> Tech Stack & Tools</span>
-  <span style="color: #e06c75;">Languages:</span>     Java, Python, JavaScript, C++, HTML, CSS, SQL
-  <span style="color: #e06c75;">Frameworks:</span>    ReactJS, Node.js, Express, Spring Boot
-  <span style="color: #e06c75;">Tools:</span>         Git, GitHub, VS Code, IntelliJ IDEA, Docker
-  <span style="color: #e06c75;">Environment:</span>   Windows 11 / Linux (Ubuntu)
+<span style="color: #ff0055;">> root@minjju12:~#</span> cat current_projects.md
 </pre>
 
+* **Smart Task Manager:** Ứng dụng quản lý công việc cá nhân tích hợp thông báo tự động bằng Python và Node.js.
+* **CLI System Monitor:** Công cụ dòng lệnh viết bằng C++ giúp theo dõi tài nguyên phần cứng (CPU, RAM) theo thời gian thực.
+* **Automation Bot:** Bot săn tin tức và tương tác tự động sử dụng GitHub Actions.
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minjju12&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minjju12&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minjju12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minjju12&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minjju12&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minjju12&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<pre>
+<span style="color: #ff0055;">> root@minjju12:~#</span> echo $QUOTATION
+  <span style="color: #e5c07b;">"Talk is cheap. Show me the code." - Linus Torvalds</span>
+
+<span style="color: #ff0055;">> root@minjju12:~#</span> ping -c 1 contact.me
+  <span style="color: #61afef;">Email:</span>    mtuananh1911@gmail.com
+  <span style="color: #61afef;">GitHub:</span>   github.com/Minjju12
+</pre>
 </p>
 
 <pre>
