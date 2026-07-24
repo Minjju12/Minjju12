@@ -6,7 +6,7 @@
                    ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"                          Host: ..................................... TTM Technologies, Inc.
                   , ..:.::o:ooOoOOOO8OOOOo.FdO8O8"                   
                  , ..:.::o:ooOoOO8O888O8O,COCOO"                        
-                , . ..:.::o:ooOoOOOO8OOOOCOCO"                             > Languages.Programming: .................. Java, Python, JavaScript, C++
+                , . ..:.::o:ooOoOOOO8OOOOCOCO"                             > Languages.Programming: .............Java, Python, JavaScript, C++
                  . ..:.::o:ooOoOoOO8O8OCCCC"o                              > Languages.Real: ........................... English, Vietnamese
                     . ..:.::o:ooooOoCoCCC"o:o                              
                     . ..:.::o:o:,cooooCo"oo:o:                             > Hobbies.Software: ......................... Minecraft Modding, iOS Jailbreaking
