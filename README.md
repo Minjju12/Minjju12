@@ -1,20 +1,25 @@
                                                ___
-                                                  ,o88888
-                                               ,o8888888'
-                         ,:o:o:oooo.        ,8O88Pd8888"
-                     ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"
-                   ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"
-                  , ..:.::o:ooOoOOOO8OOOOo.FdO8O8"
-                 , ..:.::o:ooOoOO8O888O8O,COCOO"
-                , . ..:.::o:ooOoOOOO8OOOOCOCO"
-                 . ..:.::o:ooOoOoOO8O8OCCCC"o
-                    . ..:.::o:ooooOoCoCCC"o:o
-                    . ..:.::o:o:,cooooCo"oo:o:
-                 `   . . ..:.:cocoooo"'o:o:::'
-                 .`   . ..::ccccoc"'o:o:o:::'
-                :.:.    ,c:cccc"':.:.:.:.:.'
-              ..:.:"'`::::c:"'..:.:.:.:.:.'
-            ...:.'.:.::::"'    . . . . .'
+                                                  ,o88888                  >Minjju12                
+                                               ,o8888888'                     OS: ....................................... Windows 11
+                         ,:o:o:oooo.        ,8O88Pd8888"                      Uptime: ................................... 2 years, 5 months, 29 days
+                     ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"                        IDE: ...................................... IDEA 2023.3.2, VSCode 1.96.0
+                   ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"                          Host: ..................................... TTM Technologies, Inc.
+                  , ..:.::o:ooOoOOOO8OOOOo.FdO8O8"                   
+                 , ..:.::o:ooOoOO8O888O8O,COCOO"                        
+                , . ..:.::o:ooOoOOOO8OOOOCOCO"                             > Languages.Programming: .................. Java, Python, JavaScript, C++
+                 . ..:.::o:ooOoOoOO8O8OCCCC"o                              > Languages.Real: ........................... English, Vietnamese
+                    . ..:.::o:ooooOoCoCCC"o:o                              
+                    . ..:.::o:o:,cooooCo"oo:o:                             > Hobbies.Software: ......................... Minecraft Modding, iOS Jailbreaking
+                 `   . . ..:.:cocoooo"'o:o:::'                             > Hobbies.Hardware: ......................... Overclocking, Undervolting
+                 .`   . ..::ccccoc"'o:o:o:::'    
+                :.:.    ,c:cccc"':.:.:.:.:.'                               > Contact
+              ..:.:"'`::::c:"'..:.:.:.:.:.'                                   Email.Personal: ........................... mtuananh1911@gmail.com
+            ...:.'.:.::::"'    . . . . .'                                     <p>
+<span style="color: #ff5733;">Chữ màu cam đỏ</span> và <span style="color: #33ff57;">chữ màu xanh lá</span>.
+</p>
            .. . ....:."' `   .  . . ''
          . . . ...."'
          .. . ."'     
+
+
+
