@@ -1,6 +1,6 @@
                                                ___
                                                   ,o88888                  >Minjju12                
-                                               ,o8888888'                     OS: ....................................... Windows 11
+                                               ,o8888888'                     OS: ....................................... <span style="color: #61afef;">Windows 11</span>
                          ,:o:o:oooo.        ,8O88Pd8888"                      Uptime: ................................... 2 years, 5 months, 29 days
                      ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"                        IDE: ...................................... IDEA 2023.3.2, VSCode 1.96.0
                    ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"                          Host: ..................................... TTM Technologies, Inc.
@@ -14,9 +14,7 @@
                  .`   . ..::ccccoc"'o:o:o:::'    
                 :.:.    ,c:cccc"':.:.:.:.:.'                               > Contact
               ..:.:"'`::::c:"'..:.:.:.:.:.'                                   Email.Personal: ........................... mtuananh1911@gmail.com
-            ...:.'.:.::::"'    . . . . .'                                     <p>
-<span style="color: #ff5733;">Chữ màu cam đỏ</span> và <span style="color: #33ff57;">chữ màu xanh lá</span>.
-</p>
+            ...:.'.:.::::"'    . . . . .'                                     
            .. . ....:."' `   .  . . ''
          . . . ...."'
          .. . ."'     
