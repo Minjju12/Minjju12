@@ -32,7 +32,7 @@
 <pre>
 <span style="color: #ff0055;">> root@minjju12:~#</span> whoami
   <span style="color: #61afef;">Full Name:</span>      Nguyen Anh Tuan
-  <span style="color: #61afef;">Role:</span>           Software Engineering Student & Developer
+  <span style="color: #61afef;">Role:</span>           Student & Developer
   <span style="color: #61afef;">Location:</span>       Vietnam 🇻🇳
   <span style="color: #61afef;">Focus:</span>          Backend Development, System Optimization & Automation
 
@@ -43,33 +43,6 @@
     "database":  ["MySQL", "MongoDB", "Redis"],
     "devops":    ["Git", "Docker", "Linux (Ubuntu)", "GitHub Actions"]
   }
-
-<span style="color: #ff0055;">> root@minjju12:~#</span> uptime --detailed
-  <span style="color: #98c379;">System Running:</span> 22+ Years of Learning Life
-  <span style="color: #98c379;">Coffee Consumed:</span> 999+ Cups
-  <span style="color: #98c379;">Current Status:</span> Building scalable web applications & exploring security.
-</pre>
-
----
-
-<pre>
-<span style="color: #ff0055;">> root@minjju12:~#</span> cat current_projects.md
-</pre>
-
-* **Smart Task Manager:** Ứng dụng quản lý công việc cá nhân tích hợp thông báo tự động bằng Python và Node.js.
-* **CLI System Monitor:** Công cụ dòng lệnh viết bằng C++ giúp theo dõi tài nguyên phần cứng (CPU, RAM) theo thời gian thực.
-* **Automation Bot:** Bot săn tin tức và tương tác tự động sử dụng GitHub Actions.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minjju12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minjju12&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minjju12&theme=tokyonight&hide_border=true" width="100%" />
-</p>
 
 <pre>
 <span style="color: #ff0055;">> root@minjju12:~#</span> echo $QUOTATION
