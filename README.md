@@ -26,7 +26,6 @@
   <span style="color: #61afef;">Full Name:</span>      Nguyen Anh Tuan
   <span style="color: #61afef;">Role:</span>           Student & Developer
   <span style="color: #61afef;">Location:</span>       Vietnam 🇻🇳
-  <span style="color: #61afef;">Focus:</span>          Backend Development, System Optimization & Automation
 
 
 ⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
